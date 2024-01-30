@@ -1,14 +1,4 @@
 import ChooseBox from "./ChooseBox";
-import BitHand from "../images/chooseus/choose-main.png";
-import {
-  IconChecklist,
-  IconDeviceMobileMessage,
-  IconMoneybag,
-  IconPencilBolt,
-  IconStack,
-  IconWallet,
-} from "@tabler/icons-react";
-
 function WhyUs() {
   return (
     <>
